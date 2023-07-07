@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+h2 {
+  color: aqua;
+  background-color: #4e5d61;
+  border-radius: 20px;
+  padding: 10px;
+}
